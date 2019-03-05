@@ -85,11 +85,13 @@
       <version>8.0.13</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
     <dependency>
       <groupId>org.aspectj</groupId>
-      <artifactId>com.springsource.org.aspectj.weaver</artifactId>
-      <version>1.6.8.RELEASE</version>
+      <artifactId>aspectjweaver</artifactId>
+      <version>1.9.2</version>
     </dependency>
+
 
     <dependency>
       <groupId>org.projectlombok</groupId>
